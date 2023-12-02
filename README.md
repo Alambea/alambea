@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and always eager to learn and explore new things. Here's a glimpse of my skills and technology stack:
 
-### My Skills
+### Skills
 
 - MERN Stack Development 🚀
 - Testing with Jest, Testing Library 🧬🧪
@@ -30,13 +30,13 @@ Feel free to explore my repositories and projects. If you have any questions, wa
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white&labelColor=E33332" alt="Testing Library" />
   <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=insomnia&logoColor=white&labelColor=000000" alt="Supertest" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat&logo=sonarcloud&logoColor=white&labelColor=4E9BCD" alt="SonarCloud" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white&labelColor=CC6699" alt="SASS" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white&labelColor=880000" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Vitest-008CFF?style=flat&logo=vitest&logoColor=white&labelColor=008CFF" alt="Vitest" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white&labelColor=2C2D72" alt="Lua" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&labelColor=007396" alt="Java" />
